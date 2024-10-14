@@ -1,0 +1,20 @@
+{
+    "My Bag Shop": [
+        {
+            "IdProduk": "0011",
+            "Kode Produk": "0011222345",
+            "NamaProduk": "Bostanteen",
+            "Harga Modal": "149000",
+            "Harga Jual": "151000",
+            "Stok": 93
+        },
+        {
+            "IdProduk": "0012",
+            "Kode Produk": "0011222346",
+            "NamaProduk": "Mossdoom",
+            "Harga Modal": "146000",
+            "Harga Jual": "149000",
+            "Stok": 80
+        }
+    ]
+}
